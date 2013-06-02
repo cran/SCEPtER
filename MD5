@@ -1,0 +1,12 @@
+e51c613f324b025a455cbe9a33ec50b5 *DESCRIPTION
+e7b8c7438a39e50a8ac2e144977a4dbb *NAMESPACE
+603db2508d1b8e305738baef1371f27b *R/SCEPtER.R
+3d83736b5b8f2f11d5f0475e1cb016d7 *data/datalist
+f98b8669a924dca11b479e86d508dd44 *data/stdGrid.rda
+823fa3c8794cd5bdadbe4cd3ff742d6e *man/SCEPtER-package.Rd
+3063d295a6299606342fc5172ba8bc3b *man/errorObs.Rd
+59989268d47a40f84ea3bb932a2dd34d *man/estimateError.Rd
+4a006fbee83ac973ee2645b0f6cd1e14 *man/estimatePert.Rd
+9888af1a51300b349f15a04afdd3a9d2 *man/sampleStar.Rd
+5e130e88a9effd7197f27553416f08ea *man/stdGrid.Rd
+ba509d68bc893121a23ce731ba0c3fb6 *src/lik2.c

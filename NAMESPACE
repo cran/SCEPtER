@@ -1,0 +1,4 @@
+useDynLib(SCEPtER)
+
+export(errorObs, estimatePert, estimateError, sampleStar)
+
