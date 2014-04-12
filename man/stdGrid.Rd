@@ -27,9 +27,13 @@ stdGrid
   }
 }
 \source{G. Valle, M. Dell'Omodarme, P.G. Prada Moroni, and S. Degl'Innocenti
-(2013). \emph{Uncertainties in grid-based estimates of stellar mass and
+(2014). \emph{Uncertainties in grid-based estimates of stellar mass and
   radius. SCEPtER: Stellar CharactEristics Pisa
-  Estimation gRid}. In preparation.
+  Estimation gRid}. A&A, 561, A125.
+
+G. Valle, M. Dell'Omodarme, P.G. Prada Moroni, and S. Degl'Innocenti
+(2014). \emph{Uncertainties in asteroseismic grid-based estimates of stellar ages. SCEPtER: Stellar CharactEristics Pisa
+  Estimation gRid}. A&A, accepted.
 }
 
 \keyword{datasets}

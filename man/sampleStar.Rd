@@ -5,11 +5,13 @@
 The function extracts, without replacement, a sample of objects out of a grid.  
  }
 \usage{
-    sampleStar(n, grid)
+    sampleStar(n, grid, restrict=TRUE)
      }
 \arguments{
-\item{n}{The number of objects to be sampled.}
-\item{grid}{The grid from which the objects are sampled.}
+\item{n}{the number of objects to be sampled.}
+\item{grid}{the grid from which the objects are sampled.}
+\item{restrict}{logical flag indicating if only models younger than 14 Gyr
+  should be considered.}
 }
 \value{
 
